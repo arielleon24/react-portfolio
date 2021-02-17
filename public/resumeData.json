@@ -14,8 +14,8 @@
       "state":"Quebec",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://drive.google.com/file/d/1oYbDho5Jgp1fYI42Ixfs4-R4r5Xqjcry/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1oYbDho5Jgp1fYI42Ixfs4-R4r5Xqjcry/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -33,16 +33,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lighthouse Labs",
+        "degree":"Graduate",
+        "graduated":"January 2021",
+        "description":"Scholarship recipient for intensive Web-Development Bootcamp where I learned Javascript, NodeJS, HTML, CSS, ReactJS, Ruby on Rails as well as Databases and Data Modeling"
       }
     ],
     "work":[
@@ -50,43 +44,30 @@
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Describe work"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Git"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Illustrator"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"ReactJs"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"CSS"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"HTML5"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"VueJs"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"MongoDB"
       }
     ]
   },
@@ -126,14 +107,6 @@
   },
   "testimonials":{
     "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
     ]
   }
 }
