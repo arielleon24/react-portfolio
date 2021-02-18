@@ -55,22 +55,25 @@
         "name":"HTML & CSS"
       },
       {
-        "name":"Node.JS"
+        "name":"React"
       },
-      {
-        "name":"MySQL"
-      }, 
-      {
-        "name":"jQuery"
-      },
-      {
-        "name":"ReactJs"
-      },
-      {
-        "name":"Ruby"
-      }, 
       {
         "name":"Git"
+      }, 
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"PostgreSQL"
+      },
+      {
+        "name":"jQuery"
+      }, 
+      {
+        "name":"Express"
+      }, 
+      {
+        "name":"Ruby on Rails"
       }
     ]
   },
