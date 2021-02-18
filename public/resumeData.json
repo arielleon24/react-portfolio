@@ -55,6 +55,9 @@
         "name":"HTML & CSS"
       },
       {
+        "name":"SASS"
+      },
+      {
         "name":"React"
       },
       {
@@ -72,6 +75,9 @@
       {
         "name":"Express"
       }, 
+      {
+        "name":"Axios"
+      },
       {
         "name":"Ruby on Rails"
       }
