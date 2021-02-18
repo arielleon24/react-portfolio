@@ -83,8 +83,8 @@
         "url":"https://www.canadianwanderlust.com"
       }, 
       {
-        "title":"Fresh BsQt",
-        "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
+        "title":"Jungle",
+        "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       }
