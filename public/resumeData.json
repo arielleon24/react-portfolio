@@ -49,19 +49,10 @@
     ],
     "skills":[
       {
-        "name":"Javascript"
+        "name":"JavaScript"
       },
       {
-        "name":"Git"
-      },
-      {
-        "name":"ReactJs"
-      },
-      {
-        "name":"CSS"
-      },
-      {
-        "name":"HTML5"
+        "name":"HTML & CSS"
       },
       {
         "name":"Node.JS"
@@ -70,7 +61,16 @@
         "name":"MySQL"
       }, 
       {
+        "name":"jQuery"
+      },
+      {
+        "name":"ReactJs"
+      },
+      {
         "name":"Ruby"
+      }, 
+      {
+        "name":"Git"
       }
     ]
   },
