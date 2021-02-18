@@ -49,10 +49,10 @@
     ],
     "skills":[
       {
-        "name":"Git"
+        "name":"Javascript"
       },
       {
-        "name":"Illustrator"
+        "name":"Git"
       },
       {
         "name":"ReactJs"
@@ -64,10 +64,13 @@
         "name":"HTML5"
       },
       {
-        "name":"VueJs"
+        "name":"Node.JS"
       },
       {
-        "name":"MongoDB"
+        "name":"MySQL"
+      }, 
+      {
+        "name":"Ruby"
       }
     ]
   },
