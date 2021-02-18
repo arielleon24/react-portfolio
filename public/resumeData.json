@@ -87,6 +87,12 @@
         "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
+      }, 
+      {
+        "title":"Scheduler",
+        "category":"A Interview appointment creation tool built as a Single Page App with React",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
       }
     ]
   },
