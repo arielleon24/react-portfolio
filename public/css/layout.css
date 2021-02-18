@@ -474,7 +474,7 @@ ul#nav li.current a { color: #F06000; }
    color: black;
 }
 
-.portfolio-item:hover .github-link{
+.portfolio-item .github-link:hover{
    text-align: center;
    padding-top: 5px;
    color: #11ABB0;
