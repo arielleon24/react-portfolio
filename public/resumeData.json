@@ -2,9 +2,9 @@
   "main": {
     "name":"Ariel Leon Flores",
     "occupation":"Full-Stack Web Developer",
-    "description":"",
+    "description":"Thank you for taking a look at my Portfolio",
     "image":"profilepic.jpg",
-    "bio":"Thank you for taking a look at my Portfolio! I'm Ariel, a trilingual(English,French, Spanish) Lighthouse Labs graduate with extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to focus and grow more each day",
+    "bio":"I'm Ariel, a Lighthouse Labs graduate with extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Arielleon24@gmail.com",
     "phone": "",
@@ -101,7 +101,8 @@
         "title":"Scheduler",
         "category":"A Interview appointment creation tool built as a Single Page App with React",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://github.com/arielleon24/scheduler"
+        "url":"https://github.com/arielleon24/scheduler", 
+        "github":"https://github.com/arielleon24/scheduler"
       }, 
       {
         "title":"Tweeter",

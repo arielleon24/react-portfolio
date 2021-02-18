@@ -467,6 +467,20 @@ ul#nav li.current a { color: #F06000; }
 
    background: url(../images/overlay-bg.png) repeat;
 }
+
+.portfolio-item .github-link{
+   text-align: center;
+   padding-top: 5px;
+   color: black;
+}
+
+.portfolio-item:hover .github-link{
+   text-align: center;
+   padding-top: 5px;
+   color: #11ABB0;
+   
+}
+
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
