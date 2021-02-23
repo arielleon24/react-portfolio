@@ -94,7 +94,7 @@
       {
         "title":"Jungle",
         "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
-        "image":"canadian-wanderlust.jpg",
+        "image":"Jungle.gif",
         "url":"https://github.com/arielleon24/Jungle-project"
       }, 
       {
@@ -107,7 +107,7 @@
       {
         "title":"Tweeter",
         "category":"A single page Twitter clone using JavaScript, AJAX, Express and MongoDB",
-        "image":"canadian-wanderlust.jpg",
+        "image":"tweeter1.gif",
         "url":"https://github.com/arielleon24/tweeterOct"
       }
     ]
