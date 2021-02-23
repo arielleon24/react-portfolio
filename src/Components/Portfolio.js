@@ -20,7 +20,7 @@ class Portfolio extends Component {
             </a>
           </div>
           <div className="github-link">  
-            <a href={projects.github}><h5 className="github-link">Github repo</h5></a>
+            <a href={projects.github}><h5 className="github-link">Github repo ^</h5></a>
           </div>
         </div>
       })
