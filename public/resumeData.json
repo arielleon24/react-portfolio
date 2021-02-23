@@ -89,13 +89,15 @@
         "title":"Fresh BsQt",
         "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
         "image":"FreshBsQt-1.gif",
-        "url":"https://github.com/arielleon24/finalProject"
+        "url":"https://github.com/arielleon24/finalProject",
+        "github":"https://github.com/arielleon24/finalProject"
       }, 
       {
         "title":"Jungle",
         "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
-        "image":"Jungle.gif",
-        "url":"https://github.com/arielleon24/Jungle-project"
+        "image":"jung.gif",
+        "url":"https://github.com/arielleon24/Jungle-project",
+        "github":"https://github.com/arielleon24/Jungle-project"
       }, 
       {
         "title":"Scheduler",
@@ -108,7 +110,8 @@
         "title":"Tweeter",
         "category":"A single page Twitter clone using JavaScript, AJAX, Express and MongoDB",
         "image":"tweeter1.gif",
-        "url":"https://github.com/arielleon24/tweeterOct"
+        "url":"https://github.com/arielleon24/tweeterOct",
+        "github":"https://github.com/arielleon24/tweeterOct"
       }
     ]
   },
