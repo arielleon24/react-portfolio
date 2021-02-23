@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"Ariel Leon Flores",
+    "occupation":"Full-Stack Web Developer",
+    "description":"Thank you for taking a look at my Portfolio!",
+    "image":"profilepic.jpg",
+    "bio":"I'm Ariel, a Lighthouse Labs graduate with extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
+    "contactmessage":"If you would like to get in contact with me, please feel free to use the form below. ",
+    "email": "Arielleon24@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Montreal",
+      "state":"Quebec",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://drive.google.com/file/d/1oYbDho5Jgp1fYI42Ixfs4-R4r5Xqjcry/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1oYbDho5Jgp1fYI42Ixfs4-R4r5Xqjcry/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ariel-lf/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/arielleon24",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the skills I picked up during my time with Lighthouse Labs:",
+    "education":[
+      {
+        "school":"Lighthouse Labs",
+        "degree":"Graduate",
+        "graduated":"January 2021",
+        "description":"Scholarship recipient for intensive Web-Development Bootcamp where I learned Javascript, NodeJS, HTML, CSS, ReactJS, Ruby on Rails as well as Databases and Data Modeling"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"HTML & CSS"
+      },
+      {
+        "name":"SASS"
+      },
+      {
+        "name":"React"
+      },
+      {
+        "name":"Git"
+      }, 
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"PostgreSQL"
+      },
+      {
+        "name":"jQuery"
+      }, 
+      {
+        "name":"Express"
+      }, 
+      {
+        "name":"Axios"
+      },
+      {
+        "name":"Ruby on Rails"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fresh BsQt",
+        "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
+        "image":"FreshBsQt-1.gif",
+        "url":"",
+        "github":"https://github.com/arielleon24/finalProject"
+      }, 
+      {
+        "title":"Jungle",
+        "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
+        "image":"jung.gif",
+        "url":"",
+        "github":"https://github.com/arielleon24/Jungle-project"
+      }, 
+      {
+        "title":"Scheduler",
+        "category":"A Interview appointment creation tool built as a Single Page App with React",
+        "image":"Scheduler1.gif",
+        "url":"", 
+        "github":"https://github.com/arielleon24/scheduler"
+      }, 
+      {
+        "title":"Tweeter",
+        "category":"A single page Twitter clone using JavaScript, AJAX, Express and MongoDB",
+        "image":"tweeter1.gif",
+        "url":"",
+        "github":"https://github.com/arielleon24/tweeterOct"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}
