@@ -1,3 +1,7 @@
+## Screenshot
+
+!["Demo"](https://github.com/arielleon24/react-portfolio/blob/master/public/images/potfolio-Ready.gif?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Screenshots
 
-!["Demo"](https://github.com/arielleon24/react-portfolio/blob/master/public/images/potfolio-Ready.gif?raw=true)
