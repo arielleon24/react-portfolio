@@ -8,7 +8,15 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
+import { ThemeProvider, createGlobalStyle } from 'styled-components';
 import Portfolio from './Components/Portfolio';
+
+// const GlobalStyle = createGlobalStyle`
+// body {
+//   background-color: ${props.theme.mode === 'dark' ? '#111' : '#EEE'};
+//   color: ${props.theme.mode === 'dark' ? '#111' : '#EEE'}
+// }
+// `
 
 class App extends Component {
 
@@ -45,6 +53,7 @@ class App extends Component {
 
   render() {
     return (
+      <ThemeProvider theme={{ mode: 'dark' }}>
       <div className="App">
         <Header data={this.state?.resumeData?.main}/>
         <About data={this.state?.resumeData?.main}/>
@@ -54,6 +63,7 @@ class App extends Component {
         <Contact data={this.state?.resumeData?.main}/>
         <Footer data={this.state?.resumeData?.main}/>
       </div>
+      </ThemeProvider>
     );
   }
 }
