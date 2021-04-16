@@ -47,13 +47,13 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-         In my role as apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture.
+         As an apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture.
          <br />
          <br />
           My tasks consist in helping the students understand how to think like developers, how to debug their own code and how to properly divide tasks in small concise steps to write readable, modular code. 
          <br />
          <br />
-         This role allows me to reinforce the many skills I learned during bootcamp as well as further develop my soft skills
+         This role allows me to reinforce the many skills I learned during bootcamp while reviewing and refactoring previous tasks and further developing my soft skills.
         </div>
     </div>
 
