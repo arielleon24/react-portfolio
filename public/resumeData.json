@@ -4,7 +4,7 @@
     "occupation":"Full-Stack Web Developer",
     "description":"Thank you for taking a look at my Portfolio!",
     "image":"profilepic.jpg",
-    "bio":"I'm Ariel, a Lighthouse Labs graduate with extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
+    "bio":"I'm Ariel, a Lighthouse Labs graduate currently working as an apprentice mentor for Lighthouse Labs Web Development Bootcamp. I have extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
     "contactmessage":"If you would like to get in contact with me, please feel free to use the form below. ",
     "email": "Arielleon24@gmail.com",
     "phone": "",
@@ -41,10 +41,10 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work"
+        "company":"Lighthouse Labs",
+        "title":"Apprentice Mentor",
+        "years":"March 2021 - Present",
+        "description":"In my role as apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture. My tasks consist in helping the students understand how to think like developers, how to debug their own code and how to properly divide tasks in small concise steps to write readable, modular code. This role allows me to reinforce the many skills I learned during bootcamp as well as further work on my soft skills"
       }
     ],
     "skills":[
@@ -89,28 +89,28 @@
         "title":"Fresh BsQt",
         "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
         "image":"FreshBsQt-1.gif",
-        "url":"",
+        "url":"https://github.com/arielleon24/finalProject",
         "github":"https://github.com/arielleon24/finalProject"
       }, 
       {
         "title":"Jungle",
         "category":"A mini e-commerce application built with Rails 4.2. It is a responsive MPA using a Rails backend with Active Record.",
         "image":"jung.gif",
-        "url":"",
+        "url":"https://github.com/arielleon24/Jungle-project",
         "github":"https://github.com/arielleon24/Jungle-project"
       }, 
       {
         "title":"Scheduler",
         "category":"A Interview appointment creation tool built as a Single Page App with React",
         "image":"Scheduler1.gif",
-        "url":"", 
+        "url":"https://github.com/arielleon24/scheduler", 
         "github":"https://github.com/arielleon24/scheduler"
       }, 
       {
         "title":"Tweeter",
         "category":"A single page Twitter clone using JavaScript, AJAX, Express and MongoDB",
         "image":"tweeter1.gif",
-        "url":"",
+        "url":"https://github.com/arielleon24/tweeterOct",
         "github":"https://github.com/arielleon24/tweeterOct"
       }
     ]
