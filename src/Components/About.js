@@ -27,7 +27,11 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>I'm Ariel, a Lighthouse Labs graduate currently working as a mentor apprentice for Lighthouse Labs Web Development Bootcamp. 
+<br />
+During my bootcamp I learned gained the skills and training needed to help develop and maintain software apps, Websites and enhance functionality.  I love problem solving and am highly motivated to increase my technical expertise in the many languages and frameworks I learned during bootcamp.
+<br />
+I have years of Experience in Sales, Hospitality, Customer service and as an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -36,7 +40,7 @@ class About extends Component {
 						   <span>
 						         {city}, {state}
                    </span><br />
-                     <span>{email}</span>
+                     <span><a href = "mailto:arielleon24@gmail.com">{email}</a></span>
 					   </p>
                </div>
                <div className="columns download">
