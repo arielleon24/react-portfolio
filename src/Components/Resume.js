@@ -53,7 +53,7 @@ class Resume extends Component {
           My tasks consist in helping the students understand how to think like developers, how to debug their own code and how to properly divide tasks in small concise steps to write readable, modular code. 
          <br />
          <br />
-         This role allows me to reinforce the many skills I learned during bootcamp as well as further work on my soft skills
+         This role allows me to reinforce the many skills I learned during bootcamp as well as further develop my soft skills
         </div>
     </div>
 
