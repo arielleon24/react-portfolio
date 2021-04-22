@@ -29,7 +29,7 @@ class About extends Component {
 
             <p>I'm Ariel, a Lighthouse Labs graduate currently working part-time as a mentor apprentice for Lighthouse Labs Web Development Bootcamp. 
 <br />
-During my bootcamp I gained the skills and training needed to help develop and maintain software apps, Websites and enhance functionality.  I love problem solving and am highly motivated to increase my technical expertise in the many languages and frameworks I learned during bootcamp.
+During my bootcamp I gained the skills and training needed to help develop and maintain software apps, Websites and enhance their functionality. <br />  I love problem solving and am highly motivated to increase my technical expertise in the many languages and frameworks I learned during bootcamp.
 <br />
 I have years of Experience in Sales, Hospitality, Customer service and as an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities.</p>
             <div className="row">
