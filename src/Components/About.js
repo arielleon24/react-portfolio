@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import Zoom from 'react-reveal/Zoom';
-import Slide from 'react-reveal/Slide';
 import LightSpeed from 'react-reveal/LightSpeed'
 
 class About extends Component {
