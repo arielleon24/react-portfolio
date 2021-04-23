@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import LightSpeed from 'react-reveal/LightSpeed'
+import Slide from 'react-reveal/Slide';
 
 class Header extends Component {
   render() {
@@ -33,9 +33,9 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <LightSpeed  bottom>
+            <Slide top>
                <h1 className="responsive-headline">I'm {name}</h1>
-            </LightSpeed>
+            </Slide>
             <h3>A {city} based <span>{occupation}</span>. {description}</h3>
             <hr />
             <ul className="social">
