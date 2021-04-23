@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Fade from 'react-reveal/Fade';
+import LightSpeed from 'react-reveal/LightSpeed'
 
 class Resume extends Component {
   render() {
@@ -45,16 +47,16 @@ class Resume extends Component {
          <div className="three columns header-col">
             <h1><span>Experiences</span></h1>
          </div>
-
          <div className="nine columns main-col">
-         As an apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture.
-         <br />
-         <br />
+          As an apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture.
+          <br />
+          <br />
           My tasks consist in helping the students understand how to think like developers, how to debug their own code and how to properly divide tasks in small concise steps to write readable, modular code. 
-         <br />
-         <br />
-         This role allows me to reinforce the many skills I learned during bootcamp while reviewing and refactoring previous tasks and further developing my soft skills.
+          <br />
+          <br />
+          This role allows me to reinforce the many skills I learned during bootcamp while reviewing and refactoring previous tasks and further developing my soft skills.
         </div>
+      
     </div>
 
 
@@ -66,14 +68,17 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-
-            <p>{skillmessage}
+         
+            <p>
+              {skillmessage}
             </p>
-
+          
 				<div className="bars">
+        <Fade bottom>
 				   <ul className="skills">
 					  {skills}
 					</ul>
+        </Fade>
 				</div>
 			</div>
       </div>
