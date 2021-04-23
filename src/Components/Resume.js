@@ -29,14 +29,16 @@ class Resume extends Component {
 
       <div className="row education">
          <div className="three columns header-col">
-            <h1><span>Education</span></h1>
+         <LightSpeed top><h1><span>Education</span></h1></LightSpeed>
          </div>
 
          <div className="nine columns main-col">
             <div className="row item">
+            <Fade bottom>
                <div className="twelve columns">
                  {education}
                </div>
+            </Fade>
             </div>
          </div>
       </div>
@@ -45,8 +47,9 @@ class Resume extends Component {
       <div className="row work">
 
          <div className="three columns header-col">
-            <h1><span>Experiences</span></h1>
+         <LightSpeed top><h1><span>Experiences</span></h1></LightSpeed>
          </div>
+         <Fade bottom>
          <div className="nine columns main-col">
           As an apprentice mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture.
           <br />
@@ -56,7 +59,7 @@ class Resume extends Component {
           <br />
           This role allows me to reinforce the many skills I learned during bootcamp while reviewing and refactoring previous tasks and further developing my soft skills.
         </div>
-      
+        </Fade>
     </div>
 
 
@@ -64,7 +67,7 @@ class Resume extends Component {
       <div className="row skill">
 
          <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
+         <LightSpeed top><h1><span>Skills</span></h1></LightSpeed>
          </div>
 
          <div className="nine columns main-col">
