@@ -115,6 +115,31 @@
       }
     ]
   },
+  "portfolioDeployed":{
+    "projects": [
+      {
+        "title":"Fresh BsQt",
+        "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
+        "image":"FreshBsQt-1.gif",
+        "url":"https://github.com/arielleon24/finalProject",
+        "github":"https://github.com/arielleon24/finalProject"
+      },  
+      {
+        "title":"Scheduler",
+        "category":"A Interview appointment creation tool built as a Single Page App with React",
+        "image":"Scheduler1.gif",
+        "url":"https://github.com/arielleon24/scheduler", 
+        "github":"https://github.com/arielleon24/scheduler"
+      }, 
+      {
+        "title":"Tweeter",
+        "category":"A single page Twitter clone using JavaScript, AJAX, Express and MongoDB",
+        "image":"tweeter1.gif",
+        "url":"https://github.com/arielleon24/tweeterOct",
+        "github":"https://github.com/arielleon24/tweeterOct"
+      }
+    ]
+  },
   "testimonials":{
     "testimonials":[
     ]
