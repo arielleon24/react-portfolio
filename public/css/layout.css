@@ -473,7 +473,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .github-link{
    text-align: center;
    padding-top: 5px;
-   color: black;
+   color: grey;
 }
 
 .portfolio-item .github-link:hover{
