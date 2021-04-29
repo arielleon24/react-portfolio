@@ -445,6 +445,14 @@ ul#nav li.current a { color: #F06000; }
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
+
+.titleDiv {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   opacity: 80%;
+}
+
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
