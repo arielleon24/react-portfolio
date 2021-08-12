@@ -41,9 +41,15 @@
     ],
     "work":[
       {
+        "company":"RedSponsive",
+        "title":"Freelance Web Developer",
+        "years":"June 2021 - July 2021",
+        "description":"Worked with Redsponsive to develop and deploy a fully responsive children's React Web app based on the client's specifications and design. Once we hah the desktop version completed, I worked closely with the client to come up with a design that kept the original style but was better suited for Mobile screens."
+      },
+      {
         "company":"Lighthouse Labs",
-        "title":"Web Development Mentor",
-        "years":"March 2021 - Present",
+        "title":"Web Development Mentor - Contract",
+        "years":"March 2021 - June 2021",
         "description":"As a mentor, I assist and guide students of Lighthouse Labs Web Development Bootcamp with their code and help in increasing understanding of concepts taught during the day's lecture. My daily tasks consist of helping the students understand how to think like developers, how to debug their own code and how to properly divide tasks in small concise steps to write readable, modular code. This role allows me to reinforce the many skills I learned during bootcamp while reviewing and refactoring previous coding challenges all while further developing my soft skills."
       }
     ],
