@@ -41,6 +41,12 @@
     ],
     "work":[
       {
+        "company":"PaoPower",
+        "title":"Full Stack Web Developer",
+        "years":"August 2021 - present",
+        "description":"Working to implement a translation library that takes into account the user's location and prefered language. Currently implemented Madarin/English translations and created mobile views for the app using Next.Js and Typescript"
+      },
+      {
         "company":"RedSponsive",
         "title":"Freelance Web Developer",
         "years":"June 2021 - July 2021",
@@ -58,6 +64,9 @@
         "name":"JavaScript"
       },
       {
+        "name":"Typescript"
+      },
+      {
         "name":"HTML & CSS"
       },
       {
@@ -65,6 +74,9 @@
       },
       {
         "name":"React"
+      },
+      {
+        "name":"Next.js"
       },
       {
         "name":"Git"
