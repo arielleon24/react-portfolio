@@ -47,7 +47,7 @@ class About extends Component {
 						   <span>
 						         {city}, {state}
                    </span><br />
-                     <span><a href = "mailto:arielleon24@gmail.com">{email}</a></span>
+                     <span><a href = "mailto:arielleon.dev24@gmail.com">{email}</a></span>
 					   </p>
             </LightSpeed>   
                </div>
