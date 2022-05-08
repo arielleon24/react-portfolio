@@ -4,9 +4,9 @@
     "occupation":"Full-Stack Web Developer",
     "description":"Thank you for taking a look at my Portfolio!",
     "image":"profilepic.jpg",
-    "bio":"I'm Ariel, a Lighthouse Labs graduate currently working as a Web Development mentor for Lighthouse Labs Web Development Bootcamp. I have extensive Experience in Sales, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
+    "bio":"I'm Ariel, a Lighthouse Labs graduate currently working as an Integration Specialist for E-180. I have Experience in Web Development, Hospitality and Customer service. As an Afro-Latino, I have taken part in multiple events to discuss intersectionality and belonging within the work place as well as help coordinate networking opportunities for my communities. I enjoy learning new skills and hope that this new career will allow me to increase my knowledge and grow more each day. Feel free to reach out if you have any questions",
     "contactmessage":"If you would like to get in contact with me, please feel free to use the form below. ",
-    "email": "Arielleon24@gmail.com",
+    "email": "Arielleon.dev24@gmail.com",
     "phone": "",
     "address":{
       "street":"(Your Street)",
@@ -41,15 +41,21 @@
     ],
     "work":[
       {
+        "company":"E-180 (Braindate)",
+        "title":"Integration Specialist",
+        "years":"September 2021 - present",
+        "description":"Working to implement a translation library that takes into account the user's location and prefered language. Currently implemented Madarin/English translations and created mobile views for the app using Next.Js and Typescript"
+      },
+      {
         "company":"PaoPower",
         "title":"Full Stack Web Developer",
-        "years":"August 2021 - present",
+        "years":"August 2021 - September 2021",
         "description":"Working to implement a translation library that takes into account the user's location and prefered language. Currently implemented Madarin/English translations and created mobile views for the app using Next.Js and Typescript"
       },
       {
         "company":"RedSponsive",
         "title":"Freelance Web Developer",
-        "years":"June 2021 - July 2021",
+        "years":"May 2021 - August 2021",
         "description":"Worked with Redsponsive to develop and deploy a fully responsive children's React Web app based on the client's specifications and design. Once we hah the desktop version completed, I worked closely with the client to come up with a design that kept the original style but was better suited for Mobile screens."
       },
       {
@@ -64,6 +70,9 @@
         "name":"JavaScript"
       },
       {
+        "name":"React"
+      },
+      {
         "name":"Typescript"
       },
       {
@@ -71,9 +80,6 @@
       },
       {
         "name":"SASS"
-      },
-      {
-        "name":"React"
       },
       {
         "name":"Next.js"
