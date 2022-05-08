@@ -30,7 +30,7 @@ class About extends Component {
             <h2>About Me</h2>
          </LightSpeed>
             <p>
-               I'm Ariel, a Lighthouse Labs graduate currently working part-time as a mentor apprentice for Lighthouse Labs Web Development Bootcamp. 
+               I'm Ariel, a Lighthouse Labs graduate currently working as an Integration Specialist for E-180. 
                <br />
                During my bootcamp I gained the skills and training needed to help develop and maintain software apps, Websites and enhance their functionality. 
                <br />  
