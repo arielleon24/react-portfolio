@@ -109,7 +109,13 @@
   },
   "portfolio":{
     "projects": [
-      
+      {
+        "title":"untamed Girrafe Lodge",
+        "category":"deployed NFT minting page build to client's specifications (No mobile view)",
+        "image":"untamedGiraffe.gif",
+        "url":"https://untamedgiraffelodge.io/",
+        "github":"https://github.com/arielleon24/untamedGiraffe"
+      },
       {
         "title":"reduxMovies",
         "category":"Work in progress leveraging OMDB's Api to display movies and shows on animated background",
