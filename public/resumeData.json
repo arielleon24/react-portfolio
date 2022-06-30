@@ -109,6 +109,14 @@
   },
   "portfolio":{
     "projects": [
+      
+      {
+        "title":"reduxMovies",
+        "category":"Work in progress leveraging OMDB's Api to display movies and shows on animated background",
+        "image":"redMov.gif",
+        "url":"https://github.com/arielleon24/reduxMovies",
+        "github":"https://github.com/arielleon24/reduxMovies"
+      },
       {
         "title":"Fresh BsQt",
         "category":"Grocery Delivery App aiming to offer delivery options for small neighborhood stores within a specified range of users' current location in order to promote buying fresh & Local. ",
